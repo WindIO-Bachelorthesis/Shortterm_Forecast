@@ -19,17 +19,20 @@ Offshore and onshore wind already provides a substantial part of the energy mix 
 The installation of the blades is the greatest challenge. Relative movements between the nacelle and the blade root make the installation difficult. If the relative movement exceeds a certain threshold value, installation is no longer possible and there is an expensive delay.
 Based on measurement data 📊 that were recorded during the installation of wind turbines, machine learning 🤖 models are intended to predict the oscillation kinematics for a defined period of time.
 
-There are five different model types to chose from:
+### Forecast Models
+
+There are four different model types to chose from:
 - Auto-Regressive Integrated Moving Average (ARIMA)
 - Seasonal Autoregressive Integrated Moving Average (SARIMA)
 - Generalized AutoRegressive Conditional Heteroscedasticity (GARCH) 
 - Long short-term memory (LSTM)
 
-
+### CONTACT Elements for IoT Dashboard Widgets
+On the basis of Contact Elements, the results of the forecast models can also be displaysed via dashboard widgets. These widgets can be found in the [widgets](https://github.com/WindIO-Bachelorthesis/Shortterm_Forecast/widgets) folder.
 
 
 ## Installation
-Execute the following commands in a shell to start the web app frontend on your local development environment.
+Execute the following commands...
 
 ```
 $ git clone https://github.com/WindIO-Bachelorthesis/Shortterm_Forecast
