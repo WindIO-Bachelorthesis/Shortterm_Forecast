@@ -9,7 +9,6 @@
 
  * Introduction
  * Installation
- * Usage
  * Contributing
  * License
 
@@ -27,12 +26,9 @@ There are four different model types to chose from:
 - Generalized AutoRegressive Conditional Heteroscedasticity (GARCH) 
 - Long short-term memory (LSTM)
 
-### CONTACT Elements for IoT Dashboard Widgets
-On the basis of Contact Elements, the results of the forecast models can also be displaysed via dashboard widgets. These widgets can be found in the [widgets](https://github.com/WindIO-Bachelorthesis/Shortterm_Forecast/widgets) folder.
-
 
 ## Installation
-Execute the following commands...
+Execute the following commands to install the necessary packages and run jupyter notebook.
 
 ```
 $ git clone https://github.com/WindIO-Bachelorthesis/Shortterm_Forecast
