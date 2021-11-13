@@ -4,14 +4,19 @@
 
 <h2 align="center">Intuitive and helpful models for <br> statistical analysis and shortterm forecasting <br> of measurement data.</h2>
 
+<br>
+
 ### CONTENTS OF THIS FILE
 ---------------------
 
  * Introduction
+ * Forecasting Models
+ * CONTACT Elements for IoT Integration
  * Installation
  * Usage
  * License
 
+<br>
 
 ## Introduction
 Offshore and onshore wind already provides a substantial part of the energy mix ⚡ today. In order to further reduce the installation costs 💲, the installation process in particular should be improved.
@@ -46,14 +51,20 @@ Machine Learning & Neuronal Networks
 <a href="https://www.statsmodels.org/dev/about.html" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/dev/_static/statsmodels-logo-v2-bw.svg" alt="statsmodels" width="40" height="40"/> </a>
 <a href="https://facebook.github.io/prophet/" target="_blank" rel="noreferrer"> <img src="https://facebook.github.io/prophet/static/logo.svg" alt="prophet" width="40" height="40"/> </a>
 
-### Forecast Models
+<br>
+
+## Forecasting Models
 
 There are three different model types to chose from:
 - Auto-Regressive Integrated Moving Average (ARIMA)
 - Seasonal Autoregressive Integrated Moving Average (SARIMA)
 - Prophet by Facebook
 
-### CONTACT Elements for IoT Integration
+<br>
+
+## CONTACT Elements for IoT Integration
+
+<br>
 
 ## Installation
 Execute the following commands to install the necessary packages and run jupyter notebook.
@@ -65,8 +76,11 @@ $ pip install requirements.txt
 $ jupyter notebook
 ```
 
+<br>
+
 ## Usage
 
+<br>
 
 ## License
 This repository uses the [MIT](https://choosealicense.com/licenses/mit/) license. Please see the LICENSE.md file for more details.
