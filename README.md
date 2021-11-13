@@ -9,7 +9,7 @@
 
  * Introduction
  * Installation
- * Contributing
+ * Usage
  * License
 
 
@@ -53,6 +53,7 @@ There are three different model types to chose from:
 - Seasonal Autoregressive Integrated Moving Average (SARIMA)
 - Prophet by Facebook
 
+### CONTACT Elements for IoT Integration
 
 ## Installation
 Execute the following commands to install the necessary packages and run jupyter notebook.
@@ -64,10 +65,8 @@ $ pip install requirements.txt
 $ jupyter notebook
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Usage
 
-Please make sure to update tests as appropriate. 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+This repository uses the [MIT](https://choosealicense.com/licenses/mit/) license. Please see the LICENSE.md file for more details.
