@@ -8,6 +8,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - uses: actions/setup-python@v2
+    - uses: "treebeardtech/nbmake-action@v0.2"
+      with:
+        path: "./models/ARIMA"
     - uses: ResearchSoftwareActions/EnsureCleanNotebooksAction@1.1
       with:
         disable-checks: outputs,execution_count
