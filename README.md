@@ -23,6 +23,10 @@ Onshore wind already provides a substantial part of the energy mix ⚡ today. In
 The installation of the blades is the greatest challenge. Relative movements between the nacelle and the blade root make the installation difficult. If the relative movement exceeds a certain threshold value, installation is no longer possible and there is an expensive delay.
 Based on measurement data 📊 that were recorded during the installation of wind turbines, machine learning 🤖 models and neuronal networks are intended to predict the oscillation kinematics for a defined period of time.
 
+This repository contains three different [forecasting models](https://github.com/WindIO-Bachelorthesis/Shortterm_Forecast/tree/main/models), which are available as jupyter notebooks, a CONTACT Elements for IoT [integration](https://github.com/WindIO-Bachelorthesis/Shortterm_Forecast) and an associated [thesis](https://github.com/WindIO-Bachelorthesis/Shortterm_Forecast/thesis).
+
+<br>
+
 Front-End
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
