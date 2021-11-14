@@ -4,12 +4,36 @@
 
 <h2 align="center">Intuitive and helpful models for <br> statistical analysis and shortterm forecasting <br> of measurement data.</h2>
 
+<div align='center'>
+  
+<a href='https://github.com/WindIO-Bachelorthesis/Shortterm_Forecast/releases'>
+  
+<img src='https://img.shields.io/github/v/release/WindIO-Bachelorthesis/Shortterm_Forecast?color=%23FDD835&label=version&style=for-the-badge'>
+  
+</a>
+  
+<a href='https://github.com/WindIO-Bachelorthesis/Shortterm_Forecast/blob/main/LICENSE'>
+  
+<img src='https://img.shields.io/github/license/WindIO-Bachelorthesis/Shortterm_Forecast?style=for-the-badge'>
+  
+</a>
+  
+<a href='https://github.com/WindIO-Bachelorthesis/Shortterm_Forecast/blob/main/LICENSE'>
+  
+<img src='https://img.shields.io/github/issues/WindIO-Bachelorthesis/Shortterm_Forecast?style=for-the-badge'>
+  
+</a>
+  
+![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
+  
+</div>
 <br>
 
 ### CONTENTS OF THIS FILE
 ---------------------
 
  * Introduction
+ * Tech stack
  * Forecasting Models
  * CONTACT Elements for IoT Integration
  * Installation
@@ -26,6 +50,8 @@ Based on measurement data 📊 that were recorded during the installation of win
 This repository contains three different [forecasting models](https://github.com/WindIO-Bachelorthesis/Shortterm_Forecast/tree/main/models), which are available as jupyter notebooks, a CONTACT Elements for IoT [integration](https://github.com/WindIO-Bachelorthesis/Shortterm_Forecast) and an associated [thesis](https://github.com/WindIO-Bachelorthesis/Shortterm_Forecast/thesis).
 
 <br>
+
+## 👨‍💻 Tech stack
 
 Front-End
 
@@ -93,5 +119,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <br>
 
-## License
+## ⚠️ License
 This repository uses the [MIT](https://choosealicense.com/licenses/mit/) license. Please see the LICENSE.md file for more details.
