@@ -1,0 +1,23 @@
+{
+  "build_info": {
+    "export_version": 7, 
+    "package_versions": {
+      "cs.platform": "15.5.22"
+    }
+  }, 
+  "dependencies": [], 
+  "module": {
+    "DATA": {
+      "cdb_object_id": "09e33efd-5b70-11ec-ab78-fcb3bc431b2d", 
+      "master_config_checksum": "d41d8cd98f00b204e9800998ecf8427e", 
+      "name": "Customer module", 
+      "package": "ceiot.forecast"
+    }, 
+    "LONGTEXTS": {
+      "cdb_module_txt": ""
+    }, 
+    "PRIMARY_KEYS": {
+      "module_id": "ceiot.forecast"
+    }
+  }
+}
