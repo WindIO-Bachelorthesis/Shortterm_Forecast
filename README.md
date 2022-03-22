@@ -26,9 +26,6 @@
 <br>
   
 ![Python](https://img.shields.io/badge/PYTHON-v3.6-blue.svg)
-![Node](https://img.shields.io/badge/NODE-v.16-brightgreen.svg)
-![Oracle](https://img.shields.io/badge/ORACLE_DB-v.11-red.svg)
-![CONTACT Elements for IoT](https://img.shields.io/badge/CONTACT_ELEMETS-v.15.5-ff69b4.svg)
   
 </div>
 
